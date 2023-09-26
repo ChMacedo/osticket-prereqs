@@ -1,4 +1,4 @@
-<p align="center">
+<img width="684" alt="Screen Shot 2023-09-26 at 10 20 10 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/c7537120-d850-4013-bbb9-85b63dcce2a8"><p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -59,3 +59,27 @@ Create the directory C:\PHP
 </p>
 <br />
 
+<p>
+<img width="684" alt="Screen Shot 2023-09-26 at 10 42 05 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/34e49d6a-b484-4f0b-a9ad-d984dd939baf">
+</p>
+<p>
+Download PHP 7.3.8 and unzip the contents into C:\PHP
+</p>
+<br />
+
+<p>
+<img width="637" alt="Screen Shot 2023-09-26 at 10 44 40 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/29ce2672-5000-4141-a186-36ce3126dcce">
+
+</p>
+<p>
+Download and install VC_redist.x86.exe
+</p>
+<br />
+
+<p>
+<img width="493" alt="Screen Shot 2023-09-26 at 10 50 37 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/715f6b22-8529-4ccc-b96f-a5723568af64">
+</p>
+<p>
+Download and install mySQL 5.5.62
+</p>
+<br />
