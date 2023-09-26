@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src=img width="1220" alt="Screen Shot 2023-09-26 at 9 25 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/30ccde2e-e60a-4ce5-aca9-e2939f9e94b5"
+<img src=<img width="1220" alt="Screen Shot 2023-09-26 at 9 25 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/9707d697-d4e1-4471-ae5e-c0c70a036d11">
 />
 </p>
 <p>
