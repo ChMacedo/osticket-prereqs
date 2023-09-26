@@ -37,7 +37,7 @@ Create and virtual machine with azure and remote desktop in.
 <img width="719" alt="Screen Shot 2023-09-26 at 9 45 55 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/0e76aa5b-d7df-4015-97e9-eb9a480c033a">
 </p>
 <p>
-Once you have you VM up and running, you'll want to Install / Enable IIS(Internet Information Services) with CGI and common HTTP Features. When the installation is complete you can go to 127.0.0.1 in an internet browser.
+Once you have you VM up and running, you'll want to Install / Enable IIS(Internet Information Services) with CGI and common HTTP Features. When the installation is complete you can go to 127.0.0.1 in an internet browser to see if IIS installed properly.
 </p>
 <br />
 
