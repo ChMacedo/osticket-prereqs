@@ -148,9 +148,9 @@ login with root and create a new database called osTicket
 
 </p>
 <p>
-  Congratulations! Now you should have osTicket fully installed and setuped.  <br />
-  [help desk login page](http://localhost/osTicket/scp/login.php)
+  Congratulations! Now you should have osTicket fully installed.  <br />
 </p>
+[help desk login page](http://localhost/osTicket/scp/login.php)
 <br />
 
 
