@@ -44,8 +44,9 @@ Once you have you VM up and running, you'll want to Install / Enable IIS(Interne
 
 <p>
 <img width="501" alt="Screen Shot 2023-09-26 at 10 13 07 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/f1277249-4707-43a1-a970-eb0e6078cac1">
+<img width="501" alt="Screen Shot 2023-09-26 at 10 18 33 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/6fae1eb6-8f5a-487a-9199-72bce25d5e5d">
 </p>
 <p>
-Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) and Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
