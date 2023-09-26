@@ -1,4 +1,3 @@
-<img width="684" alt="Screen Shot 2023-09-26 at 10 20 10 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/c7537120-d850-4013-bbb9-85b63dcce2a8"><p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
