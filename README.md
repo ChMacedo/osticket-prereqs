@@ -27,8 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src=<img width="1220" alt="Screen Shot 2023-09-26 at 9 25 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/9707d697-d4e1-4471-ae5e-c0c70a036d11">
-/>
+<img width="1220" alt="Screen Shot 2023-09-26 at 9 25 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/f810d910-9160-4c2c-8da0-ee49c968184e">
 </p>
 <p>
 Create and VM with azure and remote desktop into the VM.
