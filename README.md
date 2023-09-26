@@ -103,7 +103,8 @@ Install os Ticket v1.15.8. from the os ticket zip file extract and copy the "upl
 <br />
 
 <p>
-<img width="583" alt="Screen Shot 2023-09-26 at 11 00 21 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/7448432e-3e74-4629-8b17-488c068ffc09">
+<img width="517" alt="Screen Shot 2023-09-26 at 11 26 43 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/973c311f-cea7-4692-9fc7-591c2c702c1d">
+
 </p>
 <p>
 Enable some extensions for osticket. Go back to IIS, sites -> Default -> osTicket -> PHP Manager then Click “Enable or disable an extension” and enable the following extensions <br /> 
