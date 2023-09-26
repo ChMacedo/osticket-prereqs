@@ -123,4 +123,16 @@ In C:\inetpub\wwwroot\osTicket\include rename the file ost-sampleconfig.php to o
 </p>
 <br />
 
+<p>
+<img width="573" alt="Screen Shot 2023-09-26 at 11 50 02 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/0a26569c-f67b-457a-b037-b4856e13f149">
+<img width="577" alt="Screen Shot 2023-09-26 at 11 51 15 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/838de9f5-044e-41db-b69e-8bf3cc2aabac">
+
+
+</p>
+<p> Download and install HeidiSQL
+ <br /> 
+login with root and create a new database called osTicket
+</p>
+<br />
+
 
