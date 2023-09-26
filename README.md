@@ -114,4 +114,13 @@ Enable some extensions for osticket. Go back to IIS, sites -> Default -> osTicke
 </p>
 <br />
 
+<p>
+<img width="517" alt="Screen Shot 2023-09-26 at 11 36 05 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/3150369a-8dcf-4a1f-8ee7-3f4373092520">
+</p>
+<p> Rename ost-config.php
+ <br /> 
+In C:\inetpub\wwwroot\osTicket\include rename the file ost-sampleconfig.php to ost-config.php
+</p>
+<br />
+
 
