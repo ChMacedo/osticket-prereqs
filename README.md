@@ -43,9 +43,9 @@ Once you have you VM up and running, you'll want to Install / Enable IIS(Interne
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="501" alt="Screen Shot 2023-09-26 at 10 13 07 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/f1277249-4707-43a1-a970-eb0e6078cac1">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 </p>
 <br />
