@@ -102,4 +102,15 @@ Install os Ticket v1.15.8. from the os ticket zip file extract and copy the "upl
 </p>
 <br />
 
+<p>
+<img width="583" alt="Screen Shot 2023-09-26 at 11 00 21 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/7448432e-3e74-4629-8b17-488c068ffc09">
+</p>
+<p>
+Enable some extensions
+	1. php_imap.dll
+	2. php_intl.dll
+	3. php_opcache.dll
+</p>
+<br />
+
 
