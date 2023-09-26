@@ -80,5 +80,17 @@ Download and install VC_redist.x86.exe
 </p>
 <p>
 Download and install mySQL 5.5.62
+ - Typical Setup
+ - Standard Configuration
 </p>
 <br />
+
+<p>
+<img width="637" alt="Screen Shot 2023-09-26 at 10 44 40 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/29ce2672-5000-4141-a186-36ce3126dcce">
+
+</p>
+<p>
+Download and install VC_redist.x86.exe
+</p>
+<br />
+
