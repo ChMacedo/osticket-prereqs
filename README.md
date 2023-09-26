@@ -80,8 +80,8 @@ Download and install VC_redist.x86.exe
 </p>
 <p>
 Download and install mySQL 5.5.62
- - Typical Setup
- - Standard Configuration
+ \n- Typical Setup
+ \n- Standard Configuration
 </p>
 <br />
 
