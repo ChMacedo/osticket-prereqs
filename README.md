@@ -93,3 +93,13 @@ Open IIS as an Admin from windows menu. Then open PHP Manager and register a new
 </p>
 <br />
 
+<p>
+<img width="465" alt="Screen Shot 2023-09-26 at 11 08 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/c72e74a3-6a77-45a3-9efb-14476d674cbc">
+<img width="410" alt="Screen Shot 2023-09-26 at 11 09 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/89a5818f-6ad4-4845-96fd-172b6be97472">
+</p>
+<p>
+Install os Ticket v1.15.8. from the os ticket zip file extract and copy the "upload folder" to C:\inetpub\wwwroot. Then rename the folder "osTicket"
+</p>
+<br />
+
+
