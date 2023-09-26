@@ -107,8 +107,8 @@ Install os Ticket v1.15.8. from the os ticket zip file extract and copy the "upl
 </p>
 <p>
 Enable some extensions  
-  1. php_imap.dll  
-  2. php_intl.dll  
+  1. php_imap.dll  <br />
+  2. php_intl.dll  <br />
   3. php_opcache.dll  
 </p>
 <br />
