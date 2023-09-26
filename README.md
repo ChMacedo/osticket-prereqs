@@ -80,17 +80,16 @@ Download and install VC_redist.x86.exe
 </p>
 <p>
 Download and install mySQL 5.5.62
- \n- Typical Setup
- \n- Standard Configuration
+- Typical Setup
+- Standard Configuration
 </p>
 <br />
 
 <p>
-<img width="637" alt="Screen Shot 2023-09-26 at 10 44 40 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/29ce2672-5000-4141-a186-36ce3126dcce">
-
+<img width="583" alt="Screen Shot 2023-09-26 at 11 00 21 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/7448432e-3e74-4629-8b17-488c068ffc09">
 </p>
 <p>
-Download and install VC_redist.x86.exe
+Open IIS as an Admin from windows menu. Then open PHP Manager and register a new PHP veriseron (C:\PHP\php.cgi.exe)
 </p>
 <br />
 
