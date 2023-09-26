@@ -148,8 +148,7 @@ login with root and create a new database called osTicket
 
 </p>
 <p>
-  Congratulations! Now you should have osTicket fully installed.  <br />
-  Help desk login [page](http://localhost/osTicket/scp/login.php). [GitHub Pages](https://pages.github.com/)
+  Congratulations! osTicket is now fully installed.
 </p>
 
 <br />
