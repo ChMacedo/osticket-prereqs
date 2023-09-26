@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1220" alt="Screen Shot 2023-09-26 at 9 25 45 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/f810d910-9160-4c2c-8da0-ee49c968184e">
 </p>
 <p>
-Create and virtual machine with azure and remote desktop in.
+Create a Windows 10 virtual machine with azure and remote desktop in.
 </p>
 <br />
 
@@ -37,7 +37,7 @@ Create and virtual machine with azure and remote desktop in.
 <img width="719" alt="Screen Shot 2023-09-26 at 9 45 55 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/0e76aa5b-d7df-4015-97e9-eb9a480c033a">
 </p>
 <p>
-Once you have you VM up and running, you'll want to Install / Enable IIS(Internet Information Services) with CGI and common HTTP Features. When the installation is complete you can go to 127.0.0.1 in an internet browser to see if IIS installed properly.
+Once you have the VM up and running, you will install / enable IIS(Internet Information Services) with CGI and common HTTP Features.  <br /> When the installation is complete you can go to 127.0.0.1 in an internet browser to see if IIS installed properly.
 </p>
 <br />
 
@@ -46,7 +46,8 @@ Once you have you VM up and running, you'll want to Install / Enable IIS(Interne
 <img width="501" alt="Screen Shot 2023-09-26 at 10 18 33 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/6fae1eb6-8f5a-487a-9199-72bce25d5e5d">
 </p>
 <p>
-Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) and Rewrite Module (rewrite_amd64_en-US.msi)
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)  <br />
+Download and install Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
 
