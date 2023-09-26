@@ -135,4 +135,16 @@ login with root and create a new database called osTicket
 </p>
 <br />
 
+<p>
+<img width="774" alt="Screen Shot 2023-09-26 at 11 52 18 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/5a2353ce-89c7-4bcf-a3ca-d4a9e71c6855">
+
+</p>
+<p>
+  Congratulations! Now you should have osTicket fully installed and setuped.  <br />
+  [help desk login page](http://localhost/osTicket/scp/login.php)
+  
+</p>
+<br />
+
+
 
