@@ -139,7 +139,7 @@ login with root and create a new database called osTicket
 <img width="774" alt="Screen Shot 2023-09-26 at 11 52 18 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/5a2353ce-89c7-4bcf-a3ca-d4a9e71c6855">
 
 </p>
-<p>Finish setting up osTicket in the browser and use the newly created osTicket database.
+<p>Finish setting up osTicket in the browser and use the newly created database.
 </p>
 <br />
 
