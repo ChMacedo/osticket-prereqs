@@ -50,3 +50,12 @@ Once you have you VM up and running, you'll want to Install / Enable IIS(Interne
 Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) and Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
+
+<p>
+<img width="684" alt="Screen Shot 2023-09-26 at 10 20 10 AM" src="https://github.com/ChMacedo/osticket-prereqs/assets/103891128/f41d0d1b-d99f-48bd-9c1b-fa13f4606253">
+</p>
+<p>
+Create the directory C:\PHP
+</p>
+<br />
+
